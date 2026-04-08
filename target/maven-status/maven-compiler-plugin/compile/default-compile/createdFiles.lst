@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\services\PokeConsultasService.class
+com\example\demo\config\FirebaseConfig.class
+com\example\demo\services\PokeService.class
+com\example\demo\controllers\PokeController.class
